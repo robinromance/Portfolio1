@@ -95,7 +95,7 @@ ul.nav.navbar li a.w3ls-icon:hover {
 /*-- //top-nav --*/
 /*-- banner --*/  
 .image {
-	background:url(../images/computer\ baby.jpg)no-repeat;
+	background:url(../images/Untitled\ design.png)no-repeat;
     background-position:0px 0px;
 	text-align: left;
 	min-height: 100%;
@@ -116,14 +116,14 @@ ul.nav.navbar li a.w3ls-icon:hover {
     font-size: large;
 }
 .DownloadCv:hover{
-    background-color: #a0bbf2;
+    background-color: #7ca3ef;
     transition: all 1.8s ease-in-out ;
     cursor: pointer;
 }
 .banner-text {
     margin: 22em 0 10em;
     text-align: center;
-    background: rgba(0, 0, 0, 0.72);
+    background: rgba(68, 67, 67, 0.72);
     display: inline-block;
     padding: 4em 4em 3em ;
 }
@@ -479,7 +479,7 @@ p {
 /*-- //contact --*/ 
 /*-- footer --*/
 .footer {
-    padding: 2em 0;
+    padding: 1em 0;
     text-align: center;
     background: #1F1F1F;
 }
